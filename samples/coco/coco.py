@@ -42,7 +42,7 @@ from pycocotools import mask as maskUtils
 import zipfile
 import urllib.request
 import shutil
-
+import time
 
 # Root directory of the project
 ROOT_DIR = os.path.abspath("../../")
